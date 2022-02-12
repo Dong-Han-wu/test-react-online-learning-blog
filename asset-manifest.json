@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dong-Han-wu/test-react-online-learning-blog/static/css/main.b5184810.chunk.css",
-    "main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.4751eb81.chunk.js",
-    "main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.4751eb81.chunk.js.map",
+    "main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.d0720a55.chunk.js",
+    "main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.d0720a55.chunk.js.map",
     "runtime-main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/runtime-main.763bcc82.js",
     "runtime-main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/runtime-main.763bcc82.js.map",
     "static/js/2.d5f428b4.chunk.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.763bcc82.js",
     "static/js/2.d5f428b4.chunk.js",
     "static/css/main.b5184810.chunk.css",
-    "static/js/main.4751eb81.chunk.js"
+    "static/js/main.d0720a55.chunk.js"
   ]
 }
