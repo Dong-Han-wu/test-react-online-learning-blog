@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dong-Han-wu/test-react-online-learning-blog/static/css/main.b5184810.chunk.css",
+    "main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.da2ecae4.chunk.js",
+    "main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.da2ecae4.chunk.js.map",
+    "runtime-main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/runtime-main.763bcc82.js",
+    "runtime-main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/runtime-main.763bcc82.js.map",
+    "static/js/2.0717611b.chunk.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.0717611b.chunk.js",
+    "static/js/2.0717611b.chunk.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.0717611b.chunk.js.map",
+    "index.html": "/Dong-Han-wu/test-react-online-learning-blog/index.html",
+    "static/css/main.b5184810.chunk.css.map": "/Dong-Han-wu/test-react-online-learning-blog/static/css/main.b5184810.chunk.css.map",
+    "static/js/2.0717611b.chunk.js.LICENSE.txt": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.0717611b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.763bcc82.js",
+    "static/js/2.0717611b.chunk.js",
+    "static/css/main.b5184810.chunk.css",
+    "static/js/main.da2ecae4.chunk.js"
+  ]
+}
