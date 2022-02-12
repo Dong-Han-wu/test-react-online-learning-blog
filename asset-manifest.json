@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/test-react-online-learning-blog/static/css/main.b5184810.chunk.css",
-    "main.js": "/test-react-online-learning-blog/static/js/main.477a1105.chunk.js",
-    "main.js.map": "/test-react-online-learning-blog/static/js/main.477a1105.chunk.js.map",
+    "main.js": "/test-react-online-learning-blog/static/js/main.a95642b1.chunk.js",
+    "main.js.map": "/test-react-online-learning-blog/static/js/main.a95642b1.chunk.js.map",
     "runtime-main.js": "/test-react-online-learning-blog/static/js/runtime-main.d957ccac.js",
     "runtime-main.js.map": "/test-react-online-learning-blog/static/js/runtime-main.d957ccac.js.map",
-    "static/js/2.0717611b.chunk.js": "/test-react-online-learning-blog/static/js/2.0717611b.chunk.js",
-    "static/js/2.0717611b.chunk.js.map": "/test-react-online-learning-blog/static/js/2.0717611b.chunk.js.map",
+    "static/js/2.f4f86b3f.chunk.js": "/test-react-online-learning-blog/static/js/2.f4f86b3f.chunk.js",
+    "static/js/2.f4f86b3f.chunk.js.map": "/test-react-online-learning-blog/static/js/2.f4f86b3f.chunk.js.map",
     "index.html": "/test-react-online-learning-blog/index.html",
     "static/css/main.b5184810.chunk.css.map": "/test-react-online-learning-blog/static/css/main.b5184810.chunk.css.map",
-    "static/js/2.0717611b.chunk.js.LICENSE.txt": "/test-react-online-learning-blog/static/js/2.0717611b.chunk.js.LICENSE.txt"
+    "static/js/2.f4f86b3f.chunk.js.LICENSE.txt": "/test-react-online-learning-blog/static/js/2.f4f86b3f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d957ccac.js",
-    "static/js/2.0717611b.chunk.js",
+    "static/js/2.f4f86b3f.chunk.js",
     "static/css/main.b5184810.chunk.css",
-    "static/js/main.477a1105.chunk.js"
+    "static/js/main.a95642b1.chunk.js"
   ]
 }
