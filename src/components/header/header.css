@@ -1,0 +1,38 @@
+.header {
+  width: 100%;
+  margin-top: 100px;
+  justify-content: center;
+}
+@media screen and (max-width: 576px) {
+  .header {
+    margin-left: 10%;
+  }
+}
+.headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Lora", serif;
+  color: #444;
+  
+}
+
+.headerTitleSm {
+  display: flex;
+  top: 30%;
+  font-size: 30px;
+}
+
+.headerTitleLg {
+  display: flex;
+  top: 22%;
+  font-size: 20px;
+}
+
+.headerImg {
+  display: flex;
+  width: 100%;
+  height: 450px;
+  margin-top: 80px;
+  object-fit: cover;
+}

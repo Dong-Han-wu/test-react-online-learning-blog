@@ -1,0 +1,43 @@
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin: 20px;
+}
+@media screen and (max-width: 576px) {
+    .posts {
+    width: 90%;
+    left: 10%;
+    }
+    .posts2 {
+        width: 90%;
+        left: 10%;
+        }
+  }
+.posts2{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin: 20px;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  margin-block-end: 10px;
+  writing-mode: horizontal-tb;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
