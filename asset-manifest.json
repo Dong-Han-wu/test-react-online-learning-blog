@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Dong-Han-wu/test-react-online-learning-blog/static/css/main.b5184810.chunk.css",
-    "main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.d0720a55.chunk.js",
-    "main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/main.d0720a55.chunk.js.map",
-    "runtime-main.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/runtime-main.763bcc82.js",
-    "runtime-main.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/runtime-main.763bcc82.js.map",
-    "static/js/2.d5f428b4.chunk.js": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js",
-    "static/js/2.d5f428b4.chunk.js.map": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js.map",
-    "index.html": "/Dong-Han-wu/test-react-online-learning-blog/index.html",
-    "static/css/main.b5184810.chunk.css.map": "/Dong-Han-wu/test-react-online-learning-blog/static/css/main.b5184810.chunk.css.map",
-    "static/js/2.d5f428b4.chunk.js.LICENSE.txt": "/Dong-Han-wu/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js.LICENSE.txt"
+    "main.css": "/test-react-online-learning-blog/static/css/main.b5184810.chunk.css",
+    "main.js": "/test-react-online-learning-blog/static/js/main.d0720a55.chunk.js",
+    "main.js.map": "/test-react-online-learning-blog/static/js/main.d0720a55.chunk.js.map",
+    "runtime-main.js": "/test-react-online-learning-blog/static/js/runtime-main.d957ccac.js",
+    "runtime-main.js.map": "/test-react-online-learning-blog/static/js/runtime-main.d957ccac.js.map",
+    "static/js/2.d5f428b4.chunk.js": "/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js",
+    "static/js/2.d5f428b4.chunk.js.map": "/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js.map",
+    "index.html": "/test-react-online-learning-blog/index.html",
+    "static/css/main.b5184810.chunk.css.map": "/test-react-online-learning-blog/static/css/main.b5184810.chunk.css.map",
+    "static/js/2.d5f428b4.chunk.js.LICENSE.txt": "/test-react-online-learning-blog/static/js/2.d5f428b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.763bcc82.js",
+    "static/js/runtime-main.d957ccac.js",
     "static/js/2.d5f428b4.chunk.js",
     "static/css/main.b5184810.chunk.css",
     "static/js/main.d0720a55.chunk.js"
