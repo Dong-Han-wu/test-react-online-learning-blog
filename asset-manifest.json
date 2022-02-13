@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/test-react-online-learning-blog/static/css/main.41a72321.chunk.css",
-    "main.js": "/test-react-online-learning-blog/static/js/main.161b521b.chunk.js",
-    "main.js.map": "/test-react-online-learning-blog/static/js/main.161b521b.chunk.js.map",
+    "main.js": "/test-react-online-learning-blog/static/js/main.daa340a4.chunk.js",
+    "main.js.map": "/test-react-online-learning-blog/static/js/main.daa340a4.chunk.js.map",
     "runtime-main.js": "/test-react-online-learning-blog/static/js/runtime-main.d957ccac.js",
     "runtime-main.js.map": "/test-react-online-learning-blog/static/js/runtime-main.d957ccac.js.map",
     "static/css/2.4659568d.chunk.css": "/test-react-online-learning-blog/static/css/2.4659568d.chunk.css",
-    "static/js/2.c7058bd0.chunk.js": "/test-react-online-learning-blog/static/js/2.c7058bd0.chunk.js",
-    "static/js/2.c7058bd0.chunk.js.map": "/test-react-online-learning-blog/static/js/2.c7058bd0.chunk.js.map",
+    "static/js/2.134c7dfd.chunk.js": "/test-react-online-learning-blog/static/js/2.134c7dfd.chunk.js",
+    "static/js/2.134c7dfd.chunk.js.map": "/test-react-online-learning-blog/static/js/2.134c7dfd.chunk.js.map",
     "index.html": "/test-react-online-learning-blog/index.html",
     "static/css/2.4659568d.chunk.css.map": "/test-react-online-learning-blog/static/css/2.4659568d.chunk.css.map",
     "static/css/main.41a72321.chunk.css.map": "/test-react-online-learning-blog/static/css/main.41a72321.chunk.css.map",
-    "static/js/2.c7058bd0.chunk.js.LICENSE.txt": "/test-react-online-learning-blog/static/js/2.c7058bd0.chunk.js.LICENSE.txt"
+    "static/js/2.134c7dfd.chunk.js.LICENSE.txt": "/test-react-online-learning-blog/static/js/2.134c7dfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d957ccac.js",
     "static/css/2.4659568d.chunk.css",
-    "static/js/2.c7058bd0.chunk.js",
+    "static/js/2.134c7dfd.chunk.js",
     "static/css/main.41a72321.chunk.css",
-    "static/js/main.161b521b.chunk.js"
+    "static/js/main.daa340a4.chunk.js"
   ]
 }
